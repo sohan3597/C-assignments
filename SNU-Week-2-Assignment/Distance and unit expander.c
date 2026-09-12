@@ -1,4 +1,5 @@
 //this is the answer to question 2
+//Once again here %2.f strictly makes the decimal output upto 2 decimal places
 
 #include <stdio.h>
 
