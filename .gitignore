@@ -1,0 +1,43 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Compiled C programs (common output names)
+a.out
+*.bin
+
+# Debug files
+*.dSYM/
+*.su
+*.gch
+*.pch
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# CMake
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+Makefile
+
+# Dependencies
+*.a
+*.lib
+
+# Backup files
+*.bak
+*.backup
